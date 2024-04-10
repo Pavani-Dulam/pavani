@@ -1,0 +1,10 @@
+#unique{
+    display:flex !important;
+    flex-direction: row !important;
+    height:40px !important;
+    width:100% !important;
+    background-color: black !important;
+    justify-content: space-between !important;
+    flex-wrap:wrap !important;
+    
+}

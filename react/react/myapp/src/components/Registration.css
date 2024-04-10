@@ -1,0 +1,33 @@
+.myform{
+   
+    display: "block";
+    
+    width:800px;
+    padding: 30px;
+    background-color:rgb(240, 235, 229);
+    margin-left:250px;
+    height:100%;
+    gap:10px;
+}
+.small{
+    background-color:green;
+    height:50px;
+    color:antiquewhite;
+    font-size:2px;
+    padding:10px;
+    margin-left:250px;
+    width:800px;
+    margin-top:30px;
+    font-size:30px;
+
+}
+.custom-input{
+    margin-bottom:20px;
+}
+.custom-inputs{
+    margin-top:20px;
+}
+.radios{
+    display: flex;
+    gap:10px;
+}

@@ -1,0 +1,14 @@
+.emp{
+    margin-left:30px auto;
+    background-color:green !important;
+}
+.title{
+    background-color:green;
+    color:black;
+}
+.pavani{
+    margin-left:50px;
+    padding:30px;
+    display: flex-inline;
+    flex-direction:column;
+}

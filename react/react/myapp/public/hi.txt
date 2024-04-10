@@ -1,0 +1,10 @@
+ <Employee
+        title={list[0].title}
+        salary={list[0].salary}
+        description={list[0].description}
+      ></Employee>
+      <Employee
+        title={list[1].title}
+        salary={list[1].salary}
+        description={list[1].description}
+      ></Employee> 
